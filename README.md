@@ -8,12 +8,6 @@ This weather dashboard with form inputs will let the user search for a city, and
 https://hugo180.github.io/WEatherdashbioard-Api-Project/
 
 
-## Color Reference
-
-- ![#00FF00](https://via.placeholder.com/15/f03c15/000000?text=+) `Low`
-- ![#FFA500](https://via.placeholder.com/15/c5f015/000000?text=+) `Mid`
-- ![#FF0000](https://via.placeholder.com/15/1589F0/000000?text=+) `High`
-
 ## Authors
 
 - [@hugo180](https://github.com/hugo180/WEatherdashbioard-Api-Project)
