@@ -10,7 +10,7 @@ https://hugo180.github.io/WEatherdashbioard-Api-Project/
 
 ## Color Reference
 
-- ![#00F00](https://via.placeholder.com/15/f03c15/000000?text=+) `Low`
+- ![#00FF00](https://via.placeholder.com/15/f03c15/000000?text=+) `Low`
 - ![#FFA500](https://via.placeholder.com/15/c5f015/000000?text=+) `Mid`
 - ![#FF0000](https://via.placeholder.com/15/1589F0/000000?text=+) `High`
 
