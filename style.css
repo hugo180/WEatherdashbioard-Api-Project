@@ -1,0 +1,27 @@
+h1 {
+  font-family: "festive";
+}
+
+.forecast {
+  background-image: linear-gradient(rgb(132, 0, 255), rgb(183, 0, 255));
+}
+.card-body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.container {
+  background-image: linear-gradient(rgb(132, 0, 255), rgb(183, 0, 255));
+
+  border-radius: 0.5px;
+}
+#today-weather {
+  background-image: linear-gradient(rgb(132, 0, 255), rgb(183, 0, 255));
+}
+body {
+  background-color: black;
+}
+#fiveday-header {
+  color: aliceblue;
+}
